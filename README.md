@@ -1,8 +1,6 @@
 # Clevis
 
-Cleaned portfolio version of a COMP2411 Database Systems coursework project focused on campus maintenance, cleaning operations, maintenance requests, equipment tracking, and reporting.
-
-Clevis is a Java command-line vector graphics application with a lightweight Swing visualizer. It supports creating and manipulating basic shapes, grouping them, querying bounding boxes and intersections, and viewing the current canvas through either the original CLI or the GUI.
+Cleaned portfolio version of a COMP2021 Object-Oriented Programming coursework project. Clevis is a Java command-line vector graphics application with a lightweight Swing visualizer. It supports creating and manipulating basic shapes, grouping them, querying bounding boxes and intersections, and viewing the current canvas through either the original CLI or the GUI.
 
 Originally developed as an object-oriented programming course project, this version has been cleaned and extended for portfolio demonstration while preserving the original command syntax and CLI workflow.
 
