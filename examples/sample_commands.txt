@@ -1,0 +1,16 @@
+rectangle r1 10 10 120 80
+circle c1 220 120 50
+line l1 0 0 300 200
+square s1 360 80 70
+group g1 r1 c1
+move g1 20 10
+boundingbox g1
+intersect g1 s1
+listall
+ungroup g1
+move r1 -10 15
+shapeat 20 25
+undo
+redo
+list r1
+quit
