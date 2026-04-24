@@ -1,5 +1,7 @@
 # Clevis
 
+Cleaned portfolio version of a COMP2411 Database Systems coursework project focused on campus maintenance, cleaning operations, maintenance requests, equipment tracking, and reporting.
+
 Clevis is a Java command-line vector graphics application with a lightweight Swing visualizer. It supports creating and manipulating basic shapes, grouping them, querying bounding boxes and intersections, and viewing the current canvas through either the original CLI or the GUI.
 
 Originally developed as an object-oriented programming course project, this version has been cleaned and extended for portfolio demonstration while preserving the original command syntax and CLI workflow.
@@ -110,4 +112,6 @@ java -cp out/production/clevis:out/test/clevis:lib/junit-4.12.jar:lib/hamcrest-c
 
 ## Acknowledgement
 
-This project started as an object-oriented programming course project and was later cleaned up for public portfolio presentation. Coursework-only artifacts and private identity information are intentionally excluded from this repository.
+This repository is based on a group coursework project completed for COMP2021 Object-Oriented Programming.
+
+I am grateful to my teammates for their work and collaboration throughout the project, including design discussion, implementation, testing, and presentation preparation. The public version of this repository reflects a cleaned and documented portfolio release, while the original coursework project was a shared team effort.
