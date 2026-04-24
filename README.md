@@ -34,15 +34,6 @@ src/hk/edu/polyu/comp/comp2021/clevis/
 └── model/                    # shapes, groups, and shape manager
 ```
 
-## Screenshots
-
-Screenshot placeholders are kept under:
-
-- `docs/screenshots/gui-demo.png`
-- `docs/screenshots/cli-demo.png`
-
-No screenshots are included yet.
-
 ## Run From Terminal
 
 From the repository root:
